@@ -15,6 +15,7 @@
     width: 40em;
     margin: 0 auto;
     background-color: green;
+    /* Box Model Test / Delete background color! */
   }
 
   nav {
@@ -32,6 +33,7 @@
       text-decoration: none;
 
       background-color: grey;
+      /* Box Model Test / Delete background color! */
   }
 
   nav a:hover {
@@ -109,6 +111,7 @@
     text-align: center;
 
     background-color: grey;
+    /* Box Model Test / Delete background color! */
   }
 
   .person img {
@@ -125,4 +128,5 @@
   .contact-part {
     margin-bottom: 1rem;
     background-color: grey;
+    /* Box Model Test / Delete background color! */
   }
